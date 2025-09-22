@@ -1,4 +1,4 @@
-# Build a Slack AI Bot with Amazon Bedrock Knowledge Bases
+# Build a Slack AI Chatbot with Amazon Bedrock Knowledge Bases
 
 [![AWS](https://img.shields.io/badge/AWS-Bedrock-orange)](https://aws.amazon.com/bedrock/)
 [![Python](https://img.shields.io/badge/Python-3.12+-blue)](https://www.python.org/)
